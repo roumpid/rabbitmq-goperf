@@ -8,7 +8,7 @@ import (
 )
 
 func GetUDID() string {
-	u, _ := uuid.NewV4()
+	u := uuid.NewV4()
 	return u.String()
 }
 
