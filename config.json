@@ -1,9 +1,9 @@
 {
     "rabbitmq": {
-        "host": "big-olden-puffin.rmq.cloudamqp.com",
+        "host": "localhost",
         "port": 5672,
-        "username": "dev-user2",
-        "password": "&9d$94K@m$D6",
-	"vhost": "live-dev"
+        "username": "user",
+        "password": "user",
+	"vhost": "dev"
     }
 }
